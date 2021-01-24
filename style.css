@@ -1,0 +1,28 @@
+
+div.container {
+border: 1px solid #000000;
+overflow: hidden;
+width: 100%;
+}
+div.sol {
+width: 20%;
+float: left;
+}
+div.sag {
+width: 80%;
+float: right;
+
+}
+
+.f22{
+    background-color:rgb(11, 145, 11);
+}
+.f23{
+    background-color: rgb(189, 245, 189);
+}
+.f24{
+    text-align: center;
+}
+.resimKapsayici {position:relative}
+#resimYazisi {position:absolute;left:40px;top:40px;}
+.resimYazisi {position:absolute;left:10px;top:10px;}
